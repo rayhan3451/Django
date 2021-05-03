@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Django/static/css/main.308147b5.chunk.css",
+    "main.js": "/Django/static/js/main.40119b4b.chunk.js",
+    "main.js.map": "/Django/static/js/main.40119b4b.chunk.js.map",
+    "runtime-main.js": "/Django/static/js/runtime-main.69dc6c9f.js",
+    "runtime-main.js.map": "/Django/static/js/runtime-main.69dc6c9f.js.map",
+    "static/js/2.bb177eda.chunk.js": "/Django/static/js/2.bb177eda.chunk.js",
+    "static/js/2.bb177eda.chunk.js.map": "/Django/static/js/2.bb177eda.chunk.js.map",
+    "index.html": "/Django/index.html",
+    "static/css/main.308147b5.chunk.css.map": "/Django/static/css/main.308147b5.chunk.css.map",
+    "static/js/2.bb177eda.chunk.js.LICENSE.txt": "/Django/static/js/2.bb177eda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69dc6c9f.js",
+    "static/js/2.bb177eda.chunk.js",
+    "static/css/main.308147b5.chunk.css",
+    "static/js/main.40119b4b.chunk.js"
+  ]
+}
