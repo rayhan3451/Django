@@ -10,6 +10,8 @@ Live Site : [Lorem Ipsum](https://rayhan3451.github.io/Django)
 - select ammount of paragraph
 - generate button
 
+![hand 01](https://user-images.githubusercontent.com/49207339/116968837-15e1d580-acd7-11eb-8364-68a2d167988f.jpg)
+
 ## Technology & Dependency
 
 - React JS
