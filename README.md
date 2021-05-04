@@ -1,28 +1,43 @@
-# Lorem Ipsum Generator
+# heading 1
+
+## heading 2
+
+### heading 3
+
+**bold hello**
+
+_italic_
+_italic_
+
+~~1000~~ **900**
+
+Link
+[Visit Website](https://www.youtube.com "Hover")
+
+image
+![LCO Mascot](https://th.bing.com/th/id/OIP.QXvh7gMeQ-vdBRR61gVYJAHaE8?w=294&h=196&c=7&o=5&pid=1.7)
+
+Use `for` loop
+
+```javascript
+const a = 5;
+console.log(a + 6);
+```
+
+Tables
+|Table|Goes|Here|
+|---|---|---|
+|One|Two|Three|
+
+> keep smiling & work together
 
 ---
 
-Live Site : [Lorem Ipsum](https://rayhan3451.github.io/Django)
+1. One
+2. Two
+3. Three
+   -four
+   -five
+   -six
 
-## Overview
-
-- user must not be log in
-- select ammount of paragraph
-- generate button
-
-![hand 01](https://user-images.githubusercontent.com/49207339/116968837-15e1d580-acd7-11eb-8364-68a2d167988f.jpg)
-
-![long](long.png)
-
-## Technology & Dependency
-
-- React JS
-- React Hook
-- useState
-- useEffect
-
-## Tools
-
-1. VS Code
-2. Git
-3. Github
+---
