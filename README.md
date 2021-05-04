@@ -43,3 +43,7 @@ Tables
    -six
 
 ---
+
+```
+print("Hello World")
+```
