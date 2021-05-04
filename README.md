@@ -8,11 +8,11 @@
 
 __bold hello__
 
-_italic_
+_italic_ :smile:
 _italic_
 
-~~1000~~ **900**
-
+~~1000~~ **900** :smile:
+ 
 Link
 [Visit Website](https://www.youtube.com "Hover")
 
@@ -27,7 +27,7 @@ console.log(a + 6);
 ```
 
 Tables
-|Table|Goes|Here|
+|Table|Goes|Here| :smile:
 |---|---|---|
 |One|Two|Three|
 
