@@ -27,7 +27,7 @@ console.log(a + 6);
 ```
 
 Tables
-|Table|Goes|Here| :smile:
+|Table|Goes|Here| 
 |---|---|---|
 |One|Two|Three|
 
